@@ -1,1 +1,0 @@
-/home/gulshansharma/Leaky-integrate-and-fire-model/LIF/target/debug/lif: /home/gulshansharma/Leaky-integrate-and-fire-model/LIF/src/lib.rs /home/gulshansharma/Leaky-integrate-and-fire-model/LIF/src/main.rs
